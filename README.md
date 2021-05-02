@@ -3,7 +3,7 @@
 Hola
 
 <details open>
-<summary>GitHub Stats</summary>
+<summary>📊 GitHub Stats</summary>
 <br>
   <img src="https://github-readme-stats.vercel.app/api?username=lonelyguywastaken&show_icons=true&bg_color=45deg,1D1D1D,151515,0D0D0D&title_color=3475ec&text_color=fff&hide_border=true">
 </details>
