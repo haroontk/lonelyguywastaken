@@ -11,7 +11,7 @@ Hola
 ---
 
 <details open>
-<summary>Stuff I Know</summary>
+<summary>📚 Stuff I Know</summary>
 <br>
   <a>
     <img src="https://img.shields.io/badge/Node.js-D14836?style=for-the-badge&logo=nodejs&logoColor=white">
@@ -39,7 +39,7 @@ Hola
 ---
 
 <details open>
-<summary>Socials</summary>
+<summary>📬 Socials</summary>
 <br>
   <a href="mailto:lonelyguywastaken@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white">
